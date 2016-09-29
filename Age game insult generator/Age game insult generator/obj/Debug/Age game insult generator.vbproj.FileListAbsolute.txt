@@ -1,0 +1,10 @@
+C:\Users\jd306127.DCSD\Desktop\Visual Basic Jack\Age game insult generator\Age game insult generator\bin\Debug\Age game insult generator.exe.config
+C:\Users\jd306127.DCSD\Desktop\Visual Basic Jack\Age game insult generator\Age game insult generator\bin\Debug\Age game insult generator.exe
+C:\Users\jd306127.DCSD\Desktop\Visual Basic Jack\Age game insult generator\Age game insult generator\bin\Debug\Age game insult generator.pdb
+C:\Users\jd306127.DCSD\Desktop\Visual Basic Jack\Age game insult generator\Age game insult generator\bin\Debug\Age game insult generator.xml
+C:\Users\jd306127.DCSD\Desktop\Visual Basic Jack\Age game insult generator\Age game insult generator\obj\Debug\Age_game_insult_generator.Form1.resources
+C:\Users\jd306127.DCSD\Desktop\Visual Basic Jack\Age game insult generator\Age game insult generator\obj\Debug\Age_game_insult_generator.Resources.resources
+C:\Users\jd306127.DCSD\Desktop\Visual Basic Jack\Age game insult generator\Age game insult generator\obj\Debug\Age game insult generator.vbproj.GenerateResource.Cache
+C:\Users\jd306127.DCSD\Desktop\Visual Basic Jack\Age game insult generator\Age game insult generator\obj\Debug\Age game insult generator.exe
+C:\Users\jd306127.DCSD\Desktop\Visual Basic Jack\Age game insult generator\Age game insult generator\obj\Debug\Age game insult generator.xml
+C:\Users\jd306127.DCSD\Desktop\Visual Basic Jack\Age game insult generator\Age game insult generator\obj\Debug\Age game insult generator.pdb
